@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @shankavi
 - 👀 I’m interested in QA Automation
-- 🌱 I’m currently learning Java ,Selenium ,TestNG , Mevan
+- 🌱 I’m currently learning Java ,Selenium ,TestNG , Mevan , API Testing
 - 💞️ I’m looking to collaborate on Automation Tester & Java Developers
-- 📫 How to reach me : Shankavi3.st@gmail.com
+- 📫 How to reach me : Shankavi3.st@gmail.com or shankavi3@gmail.com
 
 <!---
 shankavi/shankavi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
